@@ -1,4 +1,4 @@
-# 📑 Life Care: Blood Bank Mobile Application
+# 🩸 Life Care: Blood Bank Mobile Application
 
 Life Care is a modern mobile application designed to connect blood donors with recipients efficiently, especially in emergency situations. The app provides a smooth, interactive, and reliable platform to streamline the blood donation process, ensuring that people in need can access blood quickly while making it easy for donors to contribute to their community.
 
