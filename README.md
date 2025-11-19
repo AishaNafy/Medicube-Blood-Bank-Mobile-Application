@@ -40,7 +40,27 @@ With features like quick donor-recipient matching, appointment scheduling, and r
       
 ---
 
+🎨 **UI & UX Highlights**
 
+- Clean and modern UI following the **60-30-10 color rule**.
+- Well-structured Android layouts with:
+  - Buttons  
+  - Text inputs  
+  - Navigation views  
+  - Cards  
+  - Lists  
+- Consistent typography and iconography throughout the application.
+
+**Screens include:**
+- Dashboard  
+- Profile  
+- Search Donors  
+- Request Blood  
+- Appointment Booking  
+- Settings  
+- Authentication Screens  
+
+---
 
 ## 🛠️ Tech Stack
 - **Platform:** Android
